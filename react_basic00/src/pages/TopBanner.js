@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BsFillCloudLightningFill } from "react-icons/bs";
+import { BsFillCloudLightningFill } from "react-icons/bs";     // 리액트에서 아이콘 넣는 법
 
 
 const TopBanner = () => {

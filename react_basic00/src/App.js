@@ -1,11 +1,15 @@
-import Tab from "./pages/Tab01";
+import './basic.css'
+import MainVisual from "./pages/MainVisual";
+import SyncSlick from './pages/SyncSlick';
 
 const App = () => {
   return (
     <>
-      <Tab />
+      <MainVisual />
+      <hr />
+      <SyncSlick />
     </>
   )
 }
 
-export default App;
+export default App; 
